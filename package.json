@@ -1,0 +1,25 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "When I start any of my project, I waste a lot of my time on redundant task like setting up project structure, installing npm packages and other. So, I decide to create a boilerplate template that will help me started as fast as possible.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abisekhsubedi/node-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abisekhsubedi/node-template/issues"
+  },
+  "homepage": "https://github.com/abisekhsubedi/node-template#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.15",
+    "typescript": "^4.9.4"
+  }
+}
